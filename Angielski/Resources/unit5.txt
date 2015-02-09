@@ -1,0 +1,35 @@
+abdominopelvic cavity - jama brzuszno/miednicza
+bound - ograniczaæ, wi¹zaæ
+brain - mózg
+cranial cavity - jama czaszkowa
+feverish - gor¹czkowy
+heart - serce
+large intestine - jelito grube
+liver - w¹troba
+lung - p³uco
+pancreas - trzustka
+pelvis - miednica
+peritoneum - otrzewna
+rectum - odbyt
+reproductive organs - organy rozrodcze
+rib - ¿ebro
+slightly - nieznacznie
+small intestine - jelito cienkie
+sort out - rozwi¹zaæ
+spinal column - krêgos³up
+spleen - œledziona
+sternum - mostek
+stomach - ¿o³¹dek
+thoracic cavity - jama klatki piersiowej
+urinary bladder - pêcherz moczowy
+weight - waga
+cranium - czaszka
+base - podstawa
+digestion - trawienie
+endocrine system - system wydzielania wewnêtrznego
+respiratory system - uk³ad oddechowy
+circulatory system - uk³ad kr¹¿enia
+digestive system - uk³ad travienny
+excretory system - uk³ad wydalniczy
+reproductive system - uk³ad rozrodczy
+locomotor system - system ruchowy?

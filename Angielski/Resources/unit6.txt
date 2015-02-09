@@ -1,0 +1,23 @@
+appendicular - odnosz¹cy siê do koñczyn
+axial - osiowy
+carpal - nadgarstkowy
+cervical - szyjny
+clavicle - obojczyk
+coccyx - koœæ guziczna, koœæ ogonowa
+cranium - mózgoczaszka
+femur - koœæ udowa
+fibula - koœæ strza³kowa
+girdle - obrêcz
+humerus - koœæ ramieniowa
+lumbar - lêdŸwiowy
+metacarpal - œródrêczny
+metatarsal - œródstopowy
+patella - rzepka kolanowa
+phalanges(pl.) phalanx(sing.) - paliczki
+radius - koœæ promieniowa
+sacrum - koœæ krzy¿owa
+scapula - ³opatka
+skull - czaszka
+tibia - koœæ piszczelowa
+ulna - koœæ ³okciowa
+vertebra vertebrae(pl.) - krêg

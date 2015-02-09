@@ -1,0 +1,72 @@
+amino acid - aminokwas
+antacid - zwi¹zek zobojêtniaj¹cy kwas
+bile - ¿ó³æ
+carcinoma - rak
+chew - ¿uæ
+chyme - miazga pokarmowa
+colitis - zapalenie okrê¿nicy
+diarrhoea - biegunka
+discomfort - dolegliwoœæ, z³e samopoczucie
+diverticulitis - zapalenie uchy³ka
+erosion - nad¿erka
+exacerbation - zaostrzenie
+excessive - nadmierny
+faeces - ka³, stolec
+fat - t³uszcz
+fatty acid - kwas t³uszczowy
+gastritis - zapalenie, nie¿yt ¿o³¹dka
+glycerol - gliceryna, glicerol
+haematemesis - wymioty krwawe
+maltose - malotoza
+melaena - smo³owate stolce
+moisten - zwil¿yæ
+moistened - zwil¿ane, zwil¿ona
+patch - ³ata
+peristalsis - ruch robaczkowy jelit
+protein - bia³ko
+ptyalin - ptialina
+rennin - podpuszczka
+starch - skrobia
+ulcer - wrzód
+villi(pl.) villus(sing.) - kosmki
+salivary amylase - 	amylaza œlinowa, ptyalina
+secrete - wydzielaæ
+hydrochloric acid - kwas chlorowodorowy
+pepsin - pepsyna
+lipase - lipazy
+peptones - peptony
+semi/liquid - pó³p³ynne
+small intestine - ma³e jelito
+pancreatic juice - sok trzustkowy
+pancreas - trzustka
+peptides - peptydy
+carbohydrates - wêglowodany
+intestinal juice - sok jelitowy
+aminopeptidase - aminopeptydaza
+sucrase - sacharazy
+lactase - laktazy
+lactose - laktoza
+maltase - maltaza
+sucrose - sacharoza
+glucose - glukoza
+fructose - fruktoza
+galactose - galaktozy
+nausea - nudnoœci
+malnutrition - niedo¿ywienie
+abdominal pain - ból brzucha
+duodenum - dwunastnica
+peptic ulceration - choroba wrzodowa
+mucous membrane - b³ona œluzowa
+perforation - perforacja, przek³ucie
+pancreatic amylase - amylaza trzustkowa
+trypsin - trypsyny
+chymotrypsin - chymotrypsyna
+Carboxypeptidase - karboksypeptydaza
+Polysaccharides - polisacharydy
+tenderness - czu³oœæ
+superficial palpation - powierzchowne badanie palpacyjne
+epigastric abdominal area - nadbrzusze
+appendectomy - wyciêcie œlepej kiszki
+appendix - wyrostek robaczkowy	
+Lipids - lipidy
+Polypeptides - polipeptydy

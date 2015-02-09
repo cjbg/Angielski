@@ -1,0 +1,70 @@
+digestive - trawienny
+digestive system - uk³ad pokarmowy
+tissues - tkanki
+gastrointestinal system - Uk³ad pokarmowy
+oesophagus - prze³yk
+intestine - Jelito
+salivary glands - œlinianki
+salivary gland - gruczo³ œlinowy 
+parotid - przyuszny
+submandibular - pod¿uchwowy
+sublingual glands - gruczo³y podjêzykowe
+saliva - œlina
+Eustachian tube - tr¹bka Eustachiusza
+tonsils - migda³ki
+thorax - klatka piersiowa
+sack - worek
+ovoid - jajowaty
+diaphragm - przepona
+mucous membrane - b³ona œluzowa
+hydrochloric acid - kwas solny
+digestion - trawienie
+cardiac sphincter - zwieracza serca
+pyloric sphincter - zwieracza odŸwiernika
+duodenum - dwunastnica
+jejunum - jelita czczego
+ileum - jelito krête, krêtnica
+bile duct - przewód ¿ó³ciowy
+caecum - k¹tnica
+colon - okrê¿nica
+vermiform appendix - wyrostek robaczkowy
+ascending colon - okrê¿nica wstêpuj¹ca
+transverse colon - okrê¿nica poprzeczna 
+descending colon - okrê¿nica zstêpuj¹ca
+sigmoid colon - esica, okrê¿nica esowata 
+rectum - prostnica, odbytnica
+terminal  part - koñcowa czêœæ
+anus - odbyt
+gallbladder - woreczek ¿ó³ciowy, pêcherzyk ¿ó³ciowy
+pancreas - trzustka
+parotid gland - Œlinianka przyuszna   
+submaxillary gland- Œlinianka pod¿uchwowa
+sublingual gland - Œlinianka podjêzykowa
+spleen - sledziona
+secrete - wydziela
+bowel - jelito
+cecum - jelito œlepe
+bowel movements - wypró¿nienia
+diarrhoea - biegunka
+Gastritis -  nie¿yt ¿o³¹dka
+Duodenopathy - choroba dwunastnicy
+Colitis - nie¿yt jelita grubego
+Rectostenosis - zwê¿enie odbytnicy
+Cholecystis - zapalenie pêcherzyka ¿ó³ciowego
+Anovesical - odbytowo/pêcherzowy
+Hepatitis - zapalenie w¹troby
+Pancreatitis - zapalenie trzustki
+cardia - wpust
+gastric juice - sok ¿o³¹dkowy
+gum - dzi¹s³o
+liver - w¹troba
+muscular - miêœniowy
+nausea - nudnoœci
+pylorus - odŸwiernik
+relieve - z³agodziæ
+sigmoid - esica
+stomach - ¿o³¹dek
+sublingual - podjêzykowy
+throat - Gard³o
+tongue - jêzyk
+vomit - wymiotowaæ
